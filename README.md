@@ -1,5 +1,5 @@
-# Desaio de Projeto sobre git/github da DIO
-Projeto criado para desafio de repositório
+# Projetos Implementados durante Cursos
+XPE, Happy Code e DIO
 
 ##Links Úteis
 
